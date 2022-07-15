@@ -51,3 +51,7 @@ body {
 header {
   max-width: 60em;
 }
+
+#equipments {
+  max-width: 80em;
+}
