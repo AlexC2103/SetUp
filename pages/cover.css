@@ -55,3 +55,13 @@ header {
 #equipments {
   max-width: 80em;
 }
+#equipmentContainer {
+  max-width: 50em;
+}
+.equipMenu {
+  align-items: flex-start;
+  margin-top: 50px;
+}
+.nav-pills > button.active {
+  background-color: indianred !important;
+}
