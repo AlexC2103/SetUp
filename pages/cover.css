@@ -62,3 +62,6 @@ body {
 .nav-pills > button.active {
   background-color: indianred !important;
 }
+header {
+  background-color: indianred;
+}
